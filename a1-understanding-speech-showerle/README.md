@@ -28,5 +28,5 @@ Here are some rules:
 
 We may adjust rules when we see a fit.
 
-Good luck!
+Good luck! Thx!
 
