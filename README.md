@@ -1,4 +1,4 @@
 # CSC3160-NLP
-Fundamentals of Speech and Language Processing
+This course is about Fundamentals of Speech and Language Processing. 
 
-Learning materials and assignments.
+Learning materials and assignments will be stored here.
