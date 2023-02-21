@@ -1,6 +1,6 @@
 # Assignment 2
 
-[YOUR_NAME] [YOUR_STUDENT_ID]
+[Yuxiao Li] [221041017]
 
 ## Deadline Feb 23th, 11:59pm
 
