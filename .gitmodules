@@ -1,0 +1,3 @@
+[submodule "a3-text-representations"]
+	path = a3-text-representations
+	url = https://github.com/SLPcourse/a3-text-representation-showerle.git
